@@ -1,0 +1,8 @@
+{
+    "packet_type":"onboarding",
+    "packet_name":"onboardpacketcreation",
+    "packet_description":"regarding packet creation",
+    "assign_pac_name":"test1234",
+    "assign_pac_des":"this is regarding packet assign"
+    
+}
