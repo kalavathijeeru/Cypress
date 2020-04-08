@@ -1,0 +1,21 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "headless_mode": "node_modules\\.bin\\cypress run ",
+    "headed_mode":"npm run headless_mode -- --headed",
+    "Chrometest":"npm run headless_mode -- --browser chrome",
+    "pending_hires":"npm run Chrometest -- --spec \"cypress/integration/SAPLING/Pendinghiresflow.js\""
+
+  },
+  "author": "Kalavathi",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^4.3.0",
+    "cypress-file-upload": "^4.0.4",
+    "cypress-localstorage-commands": "^1.1.7",
+    "cypress-xpath": "^1.4.0"
+  }
+}
