@@ -1,0 +1,28 @@
+{
+    "templateName":"offboard template",
+    "teamMembertype":"Bo",
+    "teamMemberName":"Colin Bowman (Product Director, San Francisco)",
+    "terminationType":"Involuntary",
+    "eligibleRehireOption":"Yes",
+    "terminationDate":"Friday July 3 2020",
+    "lastWorkingDate":"Friday July 3 2020",
+    "accessCutoffType":"Default",
+    "Location":"New York",
+    "Employeestatus":"Full Time",
+    "Department":"Operations",
+
+    "*****Re-AssignRoles*****":"",
+    "assignteamMemberName":"chaitanya",
+
+    "*****AssignActivities****":"",
+    "workflowName":"Global",
+
+    "******SCHEDULE EMAIL******":"",
+    "sendTo":"Both Personal and Company Email",
+    "offboardingTemplateName":"only for selected location",
+    "expectedSendEmail":"immediately",
+
+    "*******OFFBOARDED USER VALIDATION IN DASHBOARD******":"",
+    "offboardedUser":"Colin Bowman"
+
+}

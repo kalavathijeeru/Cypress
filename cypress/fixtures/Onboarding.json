@@ -1,26 +1,30 @@
 {
     "-----Create Profile-----":"",
-    "firstname":"Johndoe",
-    "lastname":"Smithgffg",
-    "Personalemail":"kjshfooeo@oioe.com",
-    "companyemail":"iueiei@uinnoo.com",
+    "firstname":"Jonessherlock",
+    "lastname":"bob",
+    "Personalemail":"manasa+onboardingsherlocklk13@trysapling.com",
+    "companyemail":"iueiei@slkuinnoo.com",
 
     "------Role Assignment":"------",
     "jobtitle":"QA Lead",
-    "startdate":"Tuesday April 14 2020",
+    "startdate":"Tuesday June 30 2020",
     "Location":"New York",
-    "Employeestatus":"Permanent",
+    "Employeestatus":"Temporary",
     "Department":"Sales",
 
     "----Confirm Info--------":"",
+    "templateName":"New onboard template",
 
-    "-----Assign Paper work-----":"",
-    "select_document":"Copy of saas",
+    "-----Assign Activities-----":"",
+    "select_document":"Specific lde filters",
     "select_packet":"assign packets to users fcfefsfd",
-    "select_workflow":"",
+    "select_workflow":"grfe",
 
     "-----SCEHEDULE eMAIL-----":"",
-    "template":"onboarding"
+    "sendTo":"Both Personal and Company Email",
+    "onboardingTemplateName":"Onboarding Email",
+    "expectedSendEmail":"immediately",
+    "onboardedUser":"Jonessherlock bob"
 
 
     

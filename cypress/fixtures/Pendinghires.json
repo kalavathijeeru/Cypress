@@ -1,8 +1,34 @@
 {
     "peoplecount":".sapling-header.ng-binding",
     "datatable_count":".dataTables_info",
-    "valid_search_data":"bob",
+    "valid_search_data":"Manu Bell",
     "invalid_search_data":"bobbbb",
-    "searchuser":"Sherloc",
-    "user_onboard":"Sherlock Homes"
+    "delete_user":"Manu Bell",
+    "searchuser":"Ferroz Noor",
+    "user_onboard":"Ferroz Noor",
+    "info":"Profile information",
+
+    "******BULK ONBOARDING******":"",
+    "searchtText":"L",
+    "locationt":"Australia",
+    "department":"Banking",
+    "status":"Bond",
+    "workflowName":"grfe",
+    "EmailNameToDelete":"Onboarding Email",
+    "sendTo":"Company Email",
+    "onboardingTemplateName":"Onboarding New hire",
+    "expectedSendEmail":"immediately",
+    "****IF EXpected Send Emails is relative to key date****":"",
+    "dayEvent":"after",
+    "due":"20",
+    "durationType":"days",
+    "keydate":"start date",
+    "onKeydate":"start date",
+    "templateName":"G-Suite Temp",
+    "emailDelivery":"Personal Email Only",
+    "***fillingRequiredFieldsInCompleteProfileDetails****":"",
+    "profileFields":["1234","jkshfk","ksjhfks"],
+    "profileFieldsDropdowns":["1236"]
+
+
 }

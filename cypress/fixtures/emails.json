@@ -1,0 +1,20 @@
+{
+    "processType":"Onboarding",
+    "emailName":"Onboarding profile",
+    "emailSubject":"Complete Profile process",
+    "Cc":"",
+    "BCC":"",
+    "insertToken":"",
+    "body":"hai",
+    "sendEmailImmediately":["immediately","relative to key date"],  
+    "*****Search functionality****":"",
+    "searchTeplateName":"Onboarding profile",
+    "****Schedule an email****":"",
+    "ToSearchname":"man",
+    "ToExpectedname":"Manu Manas (QA, No Location)",
+    "sendTo":"Both Personal and Company Email",
+    "selectTemplate":"Onboarding",
+    "searchScheduleEmail":"chris"
+
+
+}

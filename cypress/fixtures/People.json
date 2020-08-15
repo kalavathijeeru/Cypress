@@ -1,0 +1,27 @@
+{
+    "firstname":"Tyson",
+    "lastname":"syam",
+    "title":"qa Engineer",
+    "company_mail":"manasa+Tysonsyam@trysapling.com",
+    "personal_mail":"manasa+Tysonsyam@trysapling.com",
+
+     "------Searching a team member-----":"",
+     "search_text":"Tyson",
+     "user_search":"Tyson syam",
+
+     "----Assigning documents to user-----":"",
+     "individual_doc":"Copy of saas",
+     "packet_doc":"test edited",
+     "workflow":"Offboarding - Jira",
+
+     "---Counting team members----":"",
+     "peoplecount":".plain-header-text.ml-8.ng-binding",
+     "datatable_count":".dataTables_info",
+
+     "-----Change manager----":"",
+     "change_manager":"chaitanya raju"
+
+
+
+
+}

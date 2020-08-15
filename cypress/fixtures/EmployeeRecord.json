@@ -1,0 +1,23 @@
+{
+    "********PERSONAL INFORMATION*****":"",
+    "first_name":"Amy",
+    "last_name":"Chervs",
+    "company_email":"manasa+shrtestuser1@trysapling.com",
+    "personal_email":"manasa+shrtestuser1@trysapling.com",
+    "Home_Phone_Number":"1234567890",
+    "Mobile_Phone_Number":"1234567890",
+    "startdate":"Tuesday June 25 2019",
+    "access_permission":"Super Admin",
+    "*******ADDITIONAL INFORMATION*******":"",
+    "additionalInfo":["nothing","araku","pizza","dogs"],
+    "******PUBLIC INFORMATION*********":"",
+    "requiredFields":["software tester","manasa+tesuser1@trysapling.com","manasa+tesuser1@trysapling.com","manasa+tesuser1@trysapling.com"],
+    "customFields":["123456789","456"],
+    "datePickers":["Thursday June 25 2020","Thursday June 25 2020","Thursday June 25 2020"],
+    "selectItems":["Social Security Number","Social Security Number","EUR"],
+    "*******PRIVATE INFORMATION*********":"",
+    "customFieldsofPrivateInfo":[],
+    "datePickersOfPrivateInfo":[],
+    "selctFieldsOfPrivateInfo":[]
+
+}

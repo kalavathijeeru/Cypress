@@ -1,0 +1,49 @@
+{
+    "------CREATE WORKFLOW-----":"",
+    "workflow_name":"buddy assign",
+    "workflow_type":["Onboarding","Offboarding","Relocation"],
+    "expectedWorkflowType":"Onboarding",
+    "----CREATE TASK------":"",
+    "task_name":"documents sign",
+    "assigned_to":"manager",
+    "workspacename":"Automation",
+    "coworkername":"",
+    "assign_on":"On date",
+    "assign_on_keydate":"Relative to key date",
+    "due_date":"On date",
+    "due_date_keydate":"Relative to key date",
+
+    "------Who is this for?-----":"",
+    "-----Locations-----":"",
+    "locations":"New York",
+    "-----Departments----":"",
+    "department":"Customer Success",
+    "-----Employment status----":"",
+    "employ_status":"Full Time",
+
+    "-------SEARCH FUNCTIONALITY-----":"",
+    "search_text":["workflow","workflowsssss","123"],
+    "expected_search_text":"Workflow Added",
+
+    "------ACTIONS TO BE PERFORMED ON WORKFLOW-----":"",
+    "search_wf_for_edit":"bud",
+    "expected_wf_for_edit":"buddy assign",
+    "task_name1":"manager assign",
+    "task_name2":"coworker assign",
+    "search_wf_for_delete":"buddy",
+    "expected_wf_for_delete":"buddy assign",
+    "search_wf_for_duplicate":"buddy",
+    "expected_wf_for_duplicate":"buddy assign",
+    "search_wf_for_move_to":"buddy",
+    "expected_wf_for_move_to":"buddy assign",
+
+    "-----ACTION ITEMS-----":"",
+    "move_to_process_type":"Onboarding",
+
+
+    "-----FUNCTIONALITY ON FILTERS-----":"",
+    "filter":["Departments","Locations","Employment Status"],
+    "departments":["AWS architect","Business development","Product"],
+    "searchforwork":"cds"
+    
+}

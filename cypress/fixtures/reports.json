@@ -1,0 +1,58 @@
+{
+    "calenderDate":"Friday May 22 2020",
+    "existingreportofmonth":"#APR",
+
+    "***********PROFILE INFO*********":"",
+    "reportName":"reports2.0",
+    "profieldFieldSearch":"link",
+    "expectedprofileFieldToAddReport":"Linkedin",
+    "searchProfileFieldforedit":"social",
+    "expectedProfileFieldforedit":"Social Security Number",
+    "searchreportforEdit":"report",
+    "expectedreportforEdit":"reports2.0",
+    "searchReportforDuplicate":"report",
+    "expectedReportforDuplicate":"reports2.0",
+    "searchreportforDelete":"report",
+    "expectedreportforDelete":"reports2.0",
+    "searchreportforModifypermission":"report",
+    "expectedreportforModifyPermission":"reports2.0",
+
+    "*************wORKFLOWS********":"",
+    "workflowName":"Testworkflow",
+    "workflowSearchadd":"grf",
+    "expectedWorkflowToaddReport":"grfe",
+    "workflowSearchText":"testwork",
+    "expectedSearchText":"Testworkflow",
+    "searchForexportWorkflow":"testwork",
+    "expextedWorkflowForExport":"Testworkflow",
+    "exportAsXLSX":"XLSX",
+    "exportAsGooglesheet":"Google Sheet",
+    "exportASCSV":"CSV",
+    "searchWorkflowForexportAs":"",
+    "modifyPermissionName":"",
+    "searchWorkflow":"grf",
+    "expectedTaskToAssign":"grfe",
+    "searchPermission":"admi",
+    "expectedPermissionToadd":"Admin",
+
+    "******Field changes******":"",
+    "fieldChangeReportName":"fieldChange Reort 2.0",
+    "fieldChangeSearchText":"field",
+    "expectedSearchFieldchange":"field changes me",
+    "searchForFieldchangeForExportAs":"acc",
+    "expectedFieldChangeForExportAs":"access",
+
+    "reportSchedulingType":"twice a month",
+
+    "++++ For Weekly report+++++":"",
+    "onDay":"Mondays",
+    "onTime":"09:00 am",
+
+    "+++++For twice a month+++++":"",
+    "onFirstday":"2nd",
+    "onSecondday":"15th",
+
+    "++++ For monthly report":"",
+    "firstDate":"1st"
+
+}

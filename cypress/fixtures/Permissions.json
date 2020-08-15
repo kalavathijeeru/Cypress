@@ -1,0 +1,59 @@
+{
+    "****ADMIN Permission level******":"",
+    "createPermissionForAdmin":"Admins",
+    "adminroleName":"AdminlevelsCheck",
+    "adminRoleDescription":"Verifying the admin permissions",
+
+    "****Permission Levels*****":"",
+    "/////Permission////":"",
+    "permissionNoAcess":"no_access",
+    "permissionViewOnly":"view_only",
+    "permissionViewAndEdit":"view_edit",
+
+    "/////Permission Part/////":"",
+    "permissionForProfileInfo":"profile_info",
+    "permissionForTasks":"tasks",
+    "permissionForTimeOff":"time_off",
+    "permissionForCalender":"calendars",
+    "permissionForDocuments":"documents",
+    "permissionForPeople":"people",
+    "////OWN INFO VISIBILITY and OTHERS INFO VISIBILITY":"",
+    "personalInformation":"personal_info",
+    "additionalInformation":"additional_info",
+    "privateInformation":"private_info",
+
+    "/////What data should they see under the Job Details tab on their own profile?///":"",
+    "-----permissionForJobdetails-----":"",
+    "noAccessPermissionforfield":"no_access_permission",
+    "viewOnlyPermissionforField":"view_only_permission",
+    "ViewEditPermissionforField":"view_edit_permission",
+    "fieldName1":"Role Information",
+    "fieldName2":"Compensation",
+    "fieldName3":"Employment Status",
+    "fieldName4":"Manager approval",
+    "-------ADMIN PERMISSIONS-----":"",
+    "dashboard":"dashboard",
+    "reports":"reports",
+    "Workflows":"tasks",
+    "documents":"documents",
+
+
+    "****MANAGER Permission level****":"",
+    "createPermissionForManager":"Managers",
+    "managerRoleName":"ManagerlevelCheck",
+    "managerRoleDescription":"Veryfying the manager permission levels",
+
+    "expectedPermissionLevel":"AdminlevelsCheck",
+    "searchuserforPermission":"priya sso",
+    "expectedUserforPermission":"priya sso",
+    "username":"priya.sso@saplinghr.onmicrosoft.com",
+    "password":"Admin@123",
+
+
+    "***Verify Perimissions for When user viewing Other'sProfile****":"",
+    "search_text":"adam",
+    "user_search":"Adam Thompson"
+
+
+
+}

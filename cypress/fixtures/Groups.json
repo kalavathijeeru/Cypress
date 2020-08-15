@@ -1,0 +1,18 @@
+{
+    "******Custom Groups***** ":"",
+    "group_type_name":"TestingAutomation",
+    "customTableName":"Role Information",
+    "selectGroupType":"TestingAutomation",
+    "GroupName":"Python",
+    "expectedGroupName":"Python",
+    "activeUser":"Bailey B",
+    "InactiveUser":"Tim manager",
+    "edit_group_name":"TestingAutomation123",
+    "********Default Groups********":"",
+    "defaultGroupType1":"Departments",
+    "defaultGroupType2":"Locations",
+    "activeUser1":"Laura L",
+    "placeholderOFDepartments":"Department",
+    "placeholderOFLocations":"Location"
+
+}

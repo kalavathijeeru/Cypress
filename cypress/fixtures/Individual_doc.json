@@ -1,10 +1,68 @@
 {
-    "name":"sign_doc",
+    "**********INDIVIDUAL DOCUMENTS**********":"",
+    "------CREATING UPLOAD REQUEST DOCS----":"",
+    "doc_type":"Upload request",
+    "name":"sign_doc21",
     "description":"onboarding with attachements",
     "file_name":"sample.pdf",
+
+    "----SEARCH FUNCTIONALITY----":"",
+    "search_text":"sign_doc21",
+
+    "----ACTION ITEMS TO BE PERFRORMED ON INDIVIDUAL DOCUMENTS---":"",
+    "search_doc_for_delete":"sign_doc",
+    "expected_doc_for_delete":"sign_doc21",
+    "search_doc_for_duplicate":"sign_doc",
+    "expected_doc_for_duplicate":"sign_doc21",
+    "search_doc_for_move_to":"sign_doc",
+    "expected_doc_for_move_to":"sign_doc21",
+    "move_to_process_type":"Onboarding",
+
+    "***********DOCUMENT PACKETS*************":"",
+    "----CREATE PACKET----":"",
+    "docpacket_name":"Onboarding user",
+    "doc_description":"Attaching documents to a onboard user",
+    "label_value1":"Combine into one document",
+    "label_value2":"Keep documents Separate",
+    "add_doc_name":"test",
+
     
-    "existing_doc":"onboarding with attach files",
-    "search_doc":"upload Requesting"
+    "----ACTION ITEMS TO BE PERFRORMED ON  DOCUMENT PACKETS---":"",
+    "search_doc_for_delete1":"Onboarding",
+    "expected_doc_for_delete1":"Onboarding user",
+    "search_doc_for_duplicate1":"Onboarding",
+    "expected_doc_for_duplicate1":"Onboarding user",
+    "search_doc_for_move_to1":"Onboarding",
+    "expected_doc_for_move_to1":"Onboarding user",
+    "move_to_process_type1":"Onboarding",
+
+    "**********Documents Tab******************":"",
+    "----Actions on upload request----":"",
+    "----Create upload request----":"",
+    "urTitle":"Automation_ur",
+    "ur_description":"This is the sample upload request",
+    "----Assigning Upload Request----":"",
+    "assign_upload_request_doc":"Upload 1",
+
+
+    "----Actions on document packet----":"",
+    "----Creating document packet---":"",
+    "packet_name":"Noname",
+    "packet_des":"This is the sample document packets",
+
+    "--How should the document appear in this packet?--":"",
+    "doc_appear":"Combine into one document",
+    "--Assigning Packets--":"",
+    "search_type":"copy of",
+    "expected_doc":"H-custom field",
+    "Assign_exist_packet":"Onboarding user",
+
+    "---Doc tab search functionality---":"",
+    "search_func":"test",
+    "expected_search":""
+
+    
+
 
 
     

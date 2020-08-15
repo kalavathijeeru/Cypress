@@ -1,0 +1,19 @@
+{
+    "companylinkName":"Test2",
+    "companylinkURL":"https://rocketship.shr-test.com/#/admin/company/general",
+    "*****DATE FORMATES*****":"",
+    "dateFormatforUSA":"USA (mm/dd/yyyy)",
+    "dateFormatforInternational":"International (dd/mm/yyyy)",
+    "dateFormatforISO":"ISO 8601 (yyyy/mm/dd)",
+    "*****MILESTONES*******":"",
+    "milestoneName":"rocketship Release1.1",
+    "milestoneName1":"rocketship Release1.2",
+    "milestoneName2":"rocketship Release1.3",
+    "milestoneName3":"rocketship Release1.4",
+    "dateFormatforLongDate":"Long Date (Dec 31, 2017)",
+    "dateforUSA":"12/21/2020",
+    "dateforInternational":"21/12/2020",
+    "dateForISO":"2020/12/21",
+    "dateForLongDate":"Nov 21, 2018"
+    
+}

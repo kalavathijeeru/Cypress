@@ -1,0 +1,23 @@
+{
+    "******All Fields******":"",
+    "new_field_name":["samplefield","profilesamplefield11","samplefield22","samplefield23"],
+    "collectFromAdmin":"Admin",
+    "collectFromManager":"Manager",
+    "collectFromHire":"New Hire", 
+    "fieldType":"Confirmation",
+    "search":"fir",
+    "template_name":"onboarding_temp123",
+    "field_name":"first",
+    "addingFieldName":"samplefield",
+
+    "******Profile Templates*****":"",
+    "search_temp":"onboar",
+    "expected_template":" new onboarding",
+
+    "****Onboarding new user*****":"",
+    "firstname":"Jones",
+    "lastname":"Raj",
+    "Personalemail":"manasa+jonesRaj@trysampling.com",
+    "onboardedUser":"Jones Raj"
+
+}
